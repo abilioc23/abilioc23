@@ -80,9 +80,11 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 | | Git | Todos os projetos |
 | | GitHub | Todos os projetos |
 | | GitLab | Aplicação Mobile |
+
 | **Bases de Dados** | MySQL | Projetos Académicos |
 | | SQL Server | Projetos Académicos |
 | | Firebase | Aplicação Mobile |
+
 | **Ferramentas** | Visual Studio Code | Desenvolvimento |
 | | Android Studio | Aplicação Mobile |
 | | Jupyter Notebook | Machine Learning |
