@@ -1,5 +1,5 @@
 <p align="right">
-<strong>🇬🇧 English</strong> | <a href="README.pt-PT.md">🇵🇹 Português</a>
+<strong>🇬🇧 English</strong> | <a href="README_pt-PT.md">🇵🇹 Português</a>
 </p>
 
 # 👋 Welcome to My Portfolio
