@@ -25,8 +25,8 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 
 ## 🎓 Licenciatura
 
-| Projeto | Descrição | Competências | Estado |
-|---------|-----------|--------------|:------:|
+| Projeto | Descrição | Competências |
+|---------|-----------|--------------|
 | **Previsão de Notas com Machine Learning** | Aplicação em Python para previsão de notas através de modelos de regressão. | Python • Machine Learning • Data Analysis |
 | **Pentesting e Auditoria de Sistemas** | Análise de vulnerabilidades e auditoria de sistemas. | Pentesting • Security Auditing |
 | **Design UI/UX** | Protótipo de uma aplicação de fitness com foco na usabilidade. | UI/UX • Figma • Acessibilidade |
@@ -36,8 +36,8 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 
 ## 🎓 Mestrado
 
-| Projeto | Descrição | Competências | Estado |
-|---------|-----------|--------------|:------:|
+| Projeto | Descrição | Competências |
+|---------|-----------|--------------|
 | **SIEM com Wazuh e Suricata** | Implementação de uma infraestrutura SIEM para monitorização, deteção de intrusões e simulação de ataques. | Wazuh • Suricata • SIEM • Blue Team • Red Team |
 | **Módulo PAM com Device Fingerprint** | Desenvolvimento de um módulo PAM com autenticação baseada em device fingerprint. | PAM • Authentication • Security |
 | **Infraestrutura Empresarial** | Simulação de uma infraestrutura empresarial completa em Cisco Packet Tracer. | Cisco • VLANs • Routing • Network Security |
