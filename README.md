@@ -1,4 +1,8 @@
-# 👋 Olá! Bem-vindo ao meu Portfólio
+<p align="right">
+<strong>🇬🇧 English</strong> | <a href="README.pt-PT.md">🇵🇹 Português</a>
+</p>
+
+# 👋 Welcome to My Portfolio
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ab%C3%ADlio-correia-60448a332/">
@@ -8,61 +12,61 @@
 
 ---
 
-# Sobre Mim
-O meu nome é **Abílio Correia** e sou licenciado em **Engenharia Informática**. Atualmente frequento o **Mestrado em Engenharia Informática**, com especialização em **Cibersegurança e Administração de Sistemas**, no **Instituto Superior de Engenharia do Porto (ISEP)**.
+# About Me
 
-Este portfólio reúne os principais projetos, certificações, competências técnicas e experiências que fui adquirindo ao longo do meu percurso académico e dos meus projetos pessoais.
+My name is **Abílio Correia**, and I hold a Bachelor's degree in **Computer Engineering**. I am currently pursuing a **Master's degree in Computer Engineering**, specializing in **Cybersecurity and Systems Administration**, at the **Instituto Superior de Engenharia do Porto (ISEP)**.
 
----
-
-# Objetivo
-
-Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**, contribuindo para a proteção de infraestruturas, sistemas e dados através da implementação de soluções seguras e da adoção de boas práticas de segurança.
+This portfolio showcases the main projects, certifications, technical skills, and experience I have gained throughout my academic journey and personal projects.
 
 ---
 
-# Projetos
+# Objective
 
-## Licenciatura
-
-| Projeto | Descrição | Competências |
-|---------|-----------|--------------|
-| **Previsão de Notas com Machine Learning** | Aplicação em Python para previsão de notas através de modelos de regressão. | Python • Machine Learning • Data Analysis |
-| **Pentesting e Auditoria de Sistemas** | Análise de vulnerabilidades e auditoria de sistemas. | Pentesting • Security Auditing |
-| **Design UI/UX** | Protótipo de uma aplicação de fitness com foco na usabilidade. | UI/UX • Figma • Acessibilidade |
-| **Rede Empresarial** | Planeamento e implementação de uma rede empresarial simulada. | Cisco • Routing • VLANs |
-| **Aplicação Android** | Aplicação Kotlin com integração de mapas e pontos de interesse. | Kotlin • Android • Maps |
-
-
-## Mestrado
-
-| Projeto | Descrição | Competências |
-|---------|-----------|--------------|
-| **SIEM com Wazuh e Suricata** | Implementação de uma infraestrutura SIEM para monitorização, deteção de intrusões e simulação de ataques. | Wazuh • Suricata • SIEM • Blue Team • Red Team |
-| **Módulo PAM com Device Fingerprint** | Desenvolvimento de um módulo PAM com autenticação baseada em device fingerprint. | PAM • Authentication • Security |
-| **Infraestrutura Empresarial** | Simulação de uma infraestrutura empresarial completa em Cisco Packet Tracer. | Cisco • VLANs • Routing • Network Security |
-| **Projetos DevOps** | Automação e gestão de infraestruturas utilizando Docker, Ansible e Vagrant. | Docker • Ansible • Vagrant • DevOps |
-| **Desenvolvimento Seguro** | Aplicação colaborativa com foco em práticas de desenvolvimento seguro. | Secure Coding • Authentication • Authorization |
+My goal is to start and develop my career in the field of **Cybersecurity**, contributing to the protection of infrastructures, systems, and data through the implementation of secure solutions and the adoption of security best practices.
 
 ---
 
-# Competências
+# Projects
 
-| Área | Competências |
-|------|--------------|
-| Programação | Desenvolvimento de Software • Programação Orientada a Objetos • Desenvolvimento Web • Desenvolvimento Mobile |
-| Cibersegurança | SIEM • Blue Team • Red Team • Pentesting • Vulnerability Assessment • Secure Software Development • Threat Detection • Incident Response |
-| Administração de Sistemas | Linux • Windows Server • Gestão de Utilizadores • Hardening |
-| Redes | Routing • Switching • VLANs • TCP/IP • Network Security |
-| Cloud & DevOps | Virtualização • Containers • Automação • Infraestrutura como Código |
-| Bases de Dados | Modelação de Dados • SQL • Administração de Bases de Dados |
-| Inteligência Artificial | Machine Learning • Análise de Dados • Modelos de Regressão |
+## Bachelor's Degree
+
+| Project | Description | Skills |
+|---------|-------------|--------|
+| **Machine Learning Grade Prediction** | Python application that predicts final grades using regression models. | Python • Machine Learning • Data Analysis |
+| **Penetration Testing and Systems Auditing** | Vulnerability assessment and security auditing project. | Pentesting • Security Auditing |
+| **Fitness UI/UX Design** | Functional prototype of a fitness application focused on usability and accessibility. | UI/UX • Figma • Accessibility |
+| **Enterprise Network** | Planning and implementation of a simulated enterprise network. | Cisco • Routing • VLANs |
+| **Android Application** | Kotlin application integrating maps and points of interest. | Kotlin • Android • Maps |
+
+## Master's Degree
+
+| Project | Description | Skills |
+|---------|-------------|--------|
+| **SIEM with Wazuh and Suricata** | Implementation of a SIEM infrastructure for monitoring, intrusion detection, and attack simulation. | Wazuh • Suricata • SIEM • Blue Team • Red Team |
+| **PAM Module with Device Fingerprinting** | Development of a Privileged Access Management module with device fingerprint-based authentication. | PAM • Authentication • Security |
+| **Enterprise Infrastructure** | Simulation of a complete enterprise network infrastructure using Cisco Packet Tracer. | Cisco • VLANs • Routing • Network Security |
+| **DevOps Projects** | Infrastructure automation and management using Docker, Ansible, and Vagrant. | Docker • Ansible • Vagrant • DevOps |
+| **Secure Software Development** | Collaborative application focused on secure software development practices. | Secure Coding • Authentication • Authorization |
 
 ---
 
-# Tecnologias e Ferramentas
+# Skills
 
-## Linguagens de Programação
+| Area | Skills |
+|------|--------|
+| Programming | Software Development • Object-Oriented Programming • Web Development • Mobile Development |
+| Cybersecurity | SIEM • Blue Team • Red Team • Pentesting • Vulnerability Assessment • Secure Software Development • Threat Detection • Incident Response |
+| Systems Administration | Linux • Windows Server • User Management • System Hardening |
+| Networking | Routing • Switching • VLANs • TCP/IP • Network Security |
+| Cloud & DevOps | Virtualization • Containers • Automation • Infrastructure as Code |
+| Databases | Data Modeling • SQL • Database Administration |
+| Artificial Intelligence | Machine Learning • Data Analysis • Regression Models |
+
+---
+
+# Technologies & Tools
+
+## Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,js,html,css" />
@@ -70,7 +74,7 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 
 ---
 
-## Sistemas Operativos
+## Operating Systems
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell" />
@@ -78,7 +82,7 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 
 ---
 
-## Cibersegurança
+## Cybersecurity
 
 <p align="left">
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logoColor=white" />
@@ -88,7 +92,7 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 
 ---
 
-## Redes
+## Networking
 
 <p align="left">
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
@@ -106,7 +110,7 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 
 ---
 
-## Bases de Dados
+## Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,firebase" />
@@ -114,7 +118,7 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 
 ---
 
-## IDEs e Ferramentas de Desenvolvimento
+## IDEs & Development Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm,figma" />
@@ -122,7 +126,7 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 
 ---
 
-## Controlo de Versões
+## Version Control
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
@@ -130,7 +134,7 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 
 ---
 
-## Ciência de Dados e Machine Learning
+## Data Science & Machine Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -138,10 +142,10 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 
 ---
 
-# Certificações
+# Certifications
 
-**Em atualização**
+**Coming Soon**
 
-Estou atualmente focado na conclusão do Mestrado em Engenharia Informática, com especialização em Cibersegurança e Administração de Sistemas, e pretendo obter certificações profissionais reconhecidas pela indústria nos próximos anos.
+I am currently focused on completing my Master's degree in Computer Engineering, specializing in Cybersecurity and Systems Administration, while planning to obtain industry-recognized professional certifications in the coming years.
 
-As futuras certificações serão adicionadas a esta secção.
+This section will be updated as new certifications are achieved.
