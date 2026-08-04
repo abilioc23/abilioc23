@@ -43,3 +43,47 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 | **Infraestrutura Empresarial** | Simulação de uma infraestrutura empresarial completa em Cisco Packet Tracer. | Cisco • VLANs • Routing • Network Security |
 | **Projetos DevOps** | Automação e gestão de infraestruturas utilizando Docker, Ansible e Vagrant. | Docker • Ansible • Vagrant • DevOps |
 | **Desenvolvimento Seguro** | Aplicação colaborativa com foco em práticas de desenvolvimento seguro. | Secure Coding • Authentication • Authorization |
+
+---
+
+# Competências
+
+| Categoria | Competência | Projetos Associados |
+|-----------|-------------|---------------------|
+| **Linguagens** | Python | Previsão de Notas • SIEM • Scripts |
+| | Java | Projetos Académicos |
+| | Kotlin | Aplicação Mobile de Pontos de Interesse |
+| | C | Projetos Académicos |
+| | SQL | Desenvolvimento Seguro • Machine Learning |
+| | HTML | Desenvolvimento Seguro |
+| | CSS | Desenvolvimento Seguro |
+| | JavaScript | Desenvolvimento Seguro |
+| **Cibersegurança** | SIEM (Wazuh) | SIEM com Wazuh e Suricata |
+| | Suricata | SIEM com Wazuh e Suricata |
+| | Pentesting | Pentesting e Auditoria de Sistemas |
+| | Vulnerability Assessment | Pentesting e Auditoria de Sistemas |
+| | Device Fingerprinting | Módulo PAM |
+| | Secure Software Development | Desenvolvimento Seguro |
+| | Blue Team | SIEM com Wazuh e Suricata |
+| | Red Team | SIEM com Wazuh e Suricata |
+| **Administração de Sistemas** | Linux | SIEM • DevOps |
+| | Windows Server | Laboratórios |
+| | Active Directory | Home Lab |
+| **Redes** | Cisco Packet Tracer | Redes Empresariais |
+| | Routing & Switching | Redes Empresariais |
+| | VLANs | Redes Empresariais |
+| | Network Security | Redes Empresariais • SIEM |
+| **Cloud & DevOps** | Docker | Projetos DevOps |
+| | Docker Compose | Projetos DevOps |
+| | Ansible | Projetos DevOps |
+| | Vagrant | Projetos DevOps |
+| | Git | Todos os projetos |
+| | GitHub | Todos os projetos |
+| | GitLab | Aplicação Mobile |
+| **Bases de Dados** | MySQL | Projetos Académicos |
+| | SQL Server | Projetos Académicos |
+| | Firebase | Aplicação Mobile |
+| **Ferramentas** | Visual Studio Code | Desenvolvimento |
+| | Android Studio | Aplicação Mobile |
+| | Jupyter Notebook | Machine Learning |
+| | Figma | Projeto UI/UX |
