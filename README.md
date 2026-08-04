@@ -1,6 +1,6 @@
 # 👋 Olá! Bem-vindo ao meu Portfólio
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ab%C3%ADlio-correia-60448a332/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
