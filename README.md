@@ -23,7 +23,7 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 
 # Projetos
 
-## 🎓 Licenciatura
+## Licenciatura
 
 | Projeto | Descrição | Competências |
 |---------|-----------|--------------|
@@ -34,7 +34,7 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 | **Aplicação Android** | Aplicação Kotlin com integração de mapas e pontos de interesse. | Kotlin • Android • Maps |
 
 
-## 🎓 Mestrado
+## Mestrado
 
 | Projeto | Descrição | Competências |
 |---------|-----------|--------------|
@@ -48,89 +48,90 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 
 # Competências
 
+| Área | Competências |
+|------|--------------|
+| Programação | Desenvolvimento de Software • Programação Orientada a Objetos • Desenvolvimento Web • Desenvolvimento Mobile |
+| Cibersegurança | SIEM • Blue Team • Red Team • Pentesting • Vulnerability Assessment • Secure Software Development • Threat Detection • Incident Response |
+| Administração de Sistemas | Linux • Windows Server • Gestão de Utilizadores • Hardening |
+| Redes | Routing • Switching • VLANs • TCP/IP • Network Security |
+| Cloud & DevOps | Virtualização • Containers • Automação • Infraestrutura como Código |
+| Bases de Dados | Modelação de Dados • SQL • Administração de Bases de Dados |
+| Inteligência Artificial | Machine Learning • Análise de Dados • Modelos de Regressão |
+
+---
+
+# Tecnologias e Ferramentas
+
 ## Linguagens de Programação
 
-| Competência | Projetos Associados |
-|-------------|---------------------|
-| Python | Aplicação de Previsão de Notas • SIEM (scripts) |
-| Java | Projetos Académicos |
-| Kotlin | Aplicação Mobile de Pontos de Interesse |
-| C | Projetos Académicos |
-| SQL | Aplicação de Previsão de Notas • Desenvolvimento Seguro |
-| HTML | Desenvolvimento Seguro |
-| CSS | Desenvolvimento Seguro |
-| JavaScript | Desenvolvimento Seguro |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,js,html,css" />
+</p>
+
+---
+
+## Sistemas Operativos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell" />
+</p>
 
 ---
 
 ## Cibersegurança
 
-| Competência | Projetos Associados |
-|-------------|---------------------|
-| SIEM | SIEM com Wazuh e Suricata |
-| Wazuh | SIEM com Wazuh e Suricata |
-| Suricata | SIEM com Wazuh e Suricata |
-| Pentesting | Pentesting e Auditoria de Sistemas |
-| Vulnerability Assessment | Pentesting e Auditoria de Sistemas |
-| Device Fingerprinting | Módulo PAM |
-| Secure Software Development | Desenvolvimento Seguro |
-| Blue Team | SIEM com Wazuh e Suricata |
-| Red Team | SIEM com Wazuh e Suricata |
-
----
-
-## Administração de Sistemas
-
-| Competência | Projetos Associados |
-|-------------|---------------------|
-| Linux | SIEM • Projetos DevOps |
-| Windows Server | Home Lab |
-| Active Directory | Home Lab |
+<p align="left">
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIEM-2563EB?style=for-the-badge" />
+</p>
 
 ---
 
 ## Redes
 
-| Competência | Projetos Associados |
-|-------------|---------------------|
-| Cisco Packet Tracer | Redes Empresariais |
-| Routing | Redes Empresariais |
-| Switching | Redes Empresariais |
-| VLANs | Redes Empresariais |
-| Network Security | Redes Empresariais • SIEM |
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
 
 ---
 
-## DevOps & Cloud
+## Cloud & DevOps
 
-| Competência | Projetos Associados |
-|-------------|---------------------|
-| Docker | Projetos DevOps |
-| Docker Compose | Projetos DevOps |
-| Ansible | Projetos DevOps |
-| Vagrant | Projetos DevOps |
-| Git | Todos os projetos |
-| GitHub | Todos os projetos |
-| GitLab | Aplicação Mobile |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,ansible" />
+  <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white" />
+</p>
 
 ---
 
 ## Bases de Dados
 
-| Competência | Projetos Associados |
-|-------------|---------------------|
-| MySQL | Aplicação de Previsão de Notas |
-| SQL Server | Desenvolvimento Seguro |
-| Firebase | Aplicação Mobile |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
 
 ---
 
-## Ferramentas
+## IDEs e Ferramentas de Desenvolvimento
 
-| Ferramenta | Utilização |
-|------------|------------|
-| Visual Studio Code | Desenvolvimento geral |
-| Android Studio | Aplicação Mobile |
-| Jupyter Notebook | Machine Learning |
-| Cisco Packet Tracer | Projetos de Redes |
-| Figma | Projeto UI/UX |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm,figma" />
+</p>
+
+---
+
+## Controlo de Versões
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
+
+---
+
+## Ciência de Dados e Machine Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
