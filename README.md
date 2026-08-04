@@ -132,6 +132,6 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 
 ## Ciência de Dados e Machine Learning
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
