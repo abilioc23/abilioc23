@@ -20,13 +20,52 @@ This portfolio showcases the main projects, certifications, technical skills, an
 
 ---
 
+# Education
+
+## Master's Degree (Ongoing)
+
+**Computer Engineering**  
+Specialization in **Cybersecurity and Systems Administration**
+
+Instituto Superior de Engenharia do Porto (ISEP)
+
+2025 – Present
+
+---
+
+## Bachelor's Degree
+
+**Computer Engineering**
+
+Universidade Lusófona do Porto
+
+2022 – 2025
+
+---
+
 # Objective
 
 My goal is to start and develop my career in the field of **Cybersecurity**, contributing to the protection of infrastructures, systems, and data through the implementation of secure solutions and the adoption of security best practices.
 
 ---
 
+# Areas of Interest
+
+- Cybersecurity
+- Security Operations Center (SOC)
+- Blue Team Operations
+- Red Team Operations
+- Threat Detection & Incident Response
+- Systems Administration
+- Network Security
+- Security Governance (GRC)
+- Cloud Security
+
+---
+
 # Projects
+
+> **Note:** Some academic projects are private due to university policies or collaborative development. Public repositories will be linked whenever available.
 
 ## Bachelor's Degree
 
@@ -150,8 +189,6 @@ My goal is to start and develop my career in the field of **Cybersecurity**, con
 
 # Certifications
 
-**Coming Soon**
+I am currently expanding my knowledge through academic work, hands-on projects and continuous learning.
 
-I am currently focused on completing my Master's degree in Computer Engineering, specializing in Cybersecurity and Systems Administration, while planning to obtain industry-recognized professional certifications in the coming years.
-
-This section will be updated as new certifications are achieved.
+Professional certifications will be added to this portfolio as they are achieved.
