@@ -114,15 +114,11 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,js,html,css" />
 </p>
 
----
-
 ## Sistemas Operativos
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell" />
 </p>
-
----
 
 ## Cibersegurança
 
@@ -132,9 +128,12 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
   <img src="https://img.shields.io/badge/SIEM-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ISO%2027001-0052CC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ISMS-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=zaproxy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-15AABF?style=for-the-badge&logo=parrotsecurity&logoColor=white" />
 </p>
-
----
 
 ## Redes
 
@@ -143,8 +142,6 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
----
-
 ## Cloud & DevOps
 
 <p align="left">
@@ -152,15 +149,11 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
   <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white" />
 </p>
 
----
-
 ## Bases de Dados
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
-
----
 
 ## IDEs e Ferramentas de Desenvolvimento
 
@@ -168,15 +161,11 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm,figma" />
 </p>
 
----
-
 ## Controlo de Versões
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
 </p>
-
----
 
 ## Ciência de Dados e Machine Learning
 
