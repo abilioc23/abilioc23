@@ -43,6 +43,8 @@ My goal is to start and develop my career in the field of **Cybersecurity**, con
 | Project | Description | Skills |
 |---------|-------------|--------|
 | **SIEM with Wazuh and Suricata** | Implementation of a SIEM infrastructure for monitoring, intrusion detection, and attack simulation. | Wazuh • Suricata • SIEM • Blue Team • Red Team |
+| **Information Security Management System (ISMS)** | Design and implementation of a complete Information Security Management System, including scope definition, information security policies, risk assessment, risk treatment, Business Impact Analysis (BIA), contingency planning, internal audit simulation and management review. | ISMS • ISO 27001 • Risk Assessment • Risk Treatment • Business Continuity • Internal Audit • Security Governance |
+| **Information Security Plan** | Development of an Information Security Plan aligned with industry standards and best practices, including security policies, governance, security controls and risk management procedures. | Security Governance • Security Policies • Security Controls • Risk Management • Compliance |
 | **PAM Module with Device Fingerprinting** | Development of a Privileged Access Management module with device fingerprint-based authentication. | PAM • Authentication • Security |
 | **Enterprise Infrastructure** | Simulation of a complete enterprise network infrastructure using Cisco Packet Tracer. | Cisco • VLANs • Routing • Network Security |
 | **DevOps Projects** | Infrastructure automation and management using Docker, Ansible, and Vagrant. | Docker • Ansible • Vagrant • DevOps |
@@ -56,11 +58,13 @@ My goal is to start and develop my career in the field of **Cybersecurity**, con
 |------|--------|
 | Programming | Software Development • Object-Oriented Programming • Web Development • Mobile Development |
 | Cybersecurity | SIEM • Blue Team • Red Team • Pentesting • Vulnerability Assessment • Secure Software Development • Threat Detection • Incident Response |
-| Systems Administration | Linux • Windows Server • User Management • System Hardening |
-| Networking | Routing • Switching • VLANs • TCP/IP • Network Security |
+| Security Governance | ISMS • Information Security Policies • Risk Assessment • Risk Treatment • Security Controls • Business Impact Analysis • Business Continuity • Internal Auditing • Compliance |
+| Systems Administration | Linux |
+| Networking | Routing • Switching • VLANs • Network Security |
 | Cloud & DevOps | Virtualization • Containers • Automation • Infrastructure as Code |
 | Databases | Data Modeling • SQL • Database Administration |
 | Artificial Intelligence | Machine Learning • Data Analysis • Regression Models |
+
 
 ---
 
@@ -88,6 +92,8 @@ My goal is to start and develop my career in the field of **Cybersecurity**, con
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/SIEM-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISO%2027001-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISMS-1F6FEB?style=for-the-badge" />
 </p>
 
 ---
