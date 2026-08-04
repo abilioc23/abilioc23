@@ -135,3 +135,9 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 <p align="left">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
+
+---
+
+# Certificações
+
+Atualmente encontro-me a expandir os meus conhecimentos através da formação académica e de projetos práticos. Esta secção será atualizada à medida que forem obtidas certificações profissionais.
