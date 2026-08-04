@@ -104,3 +104,24 @@ Desenvolvimento de uma aplicação colaborativa inspirada no conceito do Notion,
 **Competências:** Secure Software Development • Authentication • Authorization • Secure Coding • Web Development  
 
 ---
+
+## 🎓 Licenciatura
+
+| Projeto | Descrição | Competências | Estado |
+|---------|-----------|--------------|:------:|
+| **📊 Previsão de Notas com Machine Learning** | Aplicação em Python para previsão de notas através de modelos de regressão. | Python • Machine Learning • Data Analysis | 🔒 |
+| **🔐 Pentesting e Auditoria de Sistemas** | Análise de vulnerabilidades e auditoria de sistemas. | Pentesting • Security Auditing | 📄 |
+| **🎨 Design UI/UX** | Protótipo de uma aplicação de fitness com foco na usabilidade. | UI/UX • Figma • Acessibilidade | 📄 |
+| **🌐 Rede Empresarial** | Planeamento e implementação de uma rede empresarial simulada. | Cisco • Routing • VLANs | 📄 |
+| **📱 Aplicação Android** | Aplicação Kotlin com integração de mapas e pontos de interesse. | Kotlin • Android • Maps | 🔒 |
+
+
+## 🎓 Licenciatura
+
+| Projeto | Descrição | Competências | Estado |
+|---------|-----------|--------------|:------:|
+| **📊 Previsão de Notas com Machine Learning** | Aplicação em Python para previsão de notas através de modelos de regressão. | Python • Machine Learning • Data Analysis | 🔒 |
+| **🔐 Pentesting e Auditoria de Sistemas** | Análise de vulnerabilidades e auditoria de sistemas. | Pentesting • Security Auditing | 📄 |
+| **🎨 Design UI/UX** | Protótipo de uma aplicação de fitness com foco na usabilidade. | UI/UX • Figma • Acessibilidade | 📄 |
+| **🌐 Rede Empresarial** | Planeamento e implementação de uma rede empresarial simulada. | Cisco • Routing • VLANs | 📄 |
+| **📱 Aplicação Android** | Aplicação Kotlin com integração de mapas e pontos de interesse. | Kotlin • Android • Maps | 🔒 |
