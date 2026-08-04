@@ -133,6 +133,11 @@ My goal is to start and develop my career in the field of **Cybersecurity**, con
   <img src="https://img.shields.io/badge/SIEM-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ISO%2027001-0052CC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ISMS-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=zaproxy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-15AABF?style=for-the-badge&logo=parrotsecurity&logoColor=white" />
 </p>
 
 ---
