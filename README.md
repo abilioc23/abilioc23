@@ -140,4 +140,8 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 
 # Certificações
 
-Atualmente encontro-me a expandir os meus conhecimentos através da formação académica e de projetos práticos. Esta secção será atualizada à medida que forem obtidas certificações profissionais.
+**Em atualização**
+
+Estou atualmente focado na conclusão do Mestrado em Engenharia Informática, com especialização em Cibersegurança e Administração de Sistemas, e pretendo obter certificações profissionais reconhecidas pela indústria nos próximos anos.
+
+As futuras certificações serão adicionadas a esta secção.
