@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="#-olá-bem-vindo-ao-meu-portfólio">🇵🇹 Português</a> |
+  <a href="#-welcome-to-my-portfolio">🇬🇧 English</a>
+</p>
+
 # 👋 Olá! Bem-vindo ao meu Portfólio
 
 <p align="left">
