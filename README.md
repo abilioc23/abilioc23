@@ -115,15 +115,11 @@ My goal is to start and develop my career in the field of **Cybersecurity**, con
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,js,html,css" />
 </p>
 
----
-
 ## Operating Systems
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell" />
 </p>
-
----
 
 ## Cybersecurity
 
@@ -140,16 +136,12 @@ My goal is to start and develop my career in the field of **Cybersecurity**, con
   <img src="https://img.shields.io/badge/Parrot%20OS-15AABF?style=for-the-badge&logo=parrotsecurity&logoColor=white" />
 </p>
 
----
-
 ## Networking
 
 <p align="left">
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
-
----
 
 ## Cloud & DevOps
 
@@ -158,15 +150,11 @@ My goal is to start and develop my career in the field of **Cybersecurity**, con
   <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white" />
 </p>
 
----
-
 ## Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
-
----
 
 ## IDEs & Development Tools
 
@@ -174,15 +162,11 @@ My goal is to start and develop my career in the field of **Cybersecurity**, con
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm,figma" />
 </p>
 
----
-
 ## Version Control
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
 </p>
-
----
 
 ## Data Science & Machine Learning
 
