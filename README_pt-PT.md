@@ -1,3 +1,7 @@
+<p align="right">
+<a href="README.md">🇬🇧 English</a> | <strong>🇵🇹 Português</strong>
+</p>
+
 # 👋 Olá! Bem-vindo ao meu Portfólio
 
 <p align="left">
@@ -9,9 +13,33 @@
 ---
 
 # Sobre Mim
+
 O meu nome é **Abílio Correia** e sou licenciado em **Engenharia Informática**. Atualmente frequento o **Mestrado em Engenharia Informática**, com especialização em **Cibersegurança e Administração de Sistemas**, no **Instituto Superior de Engenharia do Porto (ISEP)**.
 
-Este portfólio reúne os principais projetos, certificações, competências técnicas e experiências que fui adquirindo ao longo do meu percurso académico e dos meus projetos pessoais.
+Este portfólio reúne os principais projetos, competências técnicas, certificações e experiência que fui adquirindo ao longo do meu percurso académico e dos meus projetos pessoais.
+
+---
+
+# Formação Académica
+
+## Mestrado (Em Curso)
+
+**Engenharia Informática**  
+Especialização em **Cibersegurança e Administração de Sistemas**
+
+Instituto Superior de Engenharia do Porto (ISEP)
+
+2025 – Presente
+
+---
+
+## Licenciatura
+
+**Engenharia Informática**
+
+Universidade Lusófona do Porto
+
+2022 – 2025
 
 ---
 
@@ -21,28 +49,45 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 
 ---
 
+# Áreas de Interesse
+
+- Cibersegurança
+- Security Operations Center (SOC)
+- Operações Blue Team
+- Operações Red Team
+- Deteção de Ameaças e Resposta a Incidentes
+- Administração de Sistemas
+- Segurança de Redes
+- Governance, Risk & Compliance (GRC)
+- Segurança Cloud
+
+---
+
 # Projetos
+
+> **Nota:** Alguns projetos académicos encontram-se privados devido a políticas da instituição de ensino ou por terem sido desenvolvidos em colaboração. Sempre que possível, serão disponibilizadas ligações para os respetivos repositórios públicos.
 
 ## Licenciatura
 
 | Projeto | Descrição | Competências |
 |---------|-----------|--------------|
-| **Previsão de Notas com Machine Learning** | Aplicação em Python para previsão de notas através de modelos de regressão. | Python • Machine Learning • Data Analysis |
-| **Pentesting e Auditoria de Sistemas** | Análise de vulnerabilidades e auditoria de sistemas. | Pentesting • Security Auditing |
-| **Design UI/UX** | Protótipo de uma aplicação de fitness com foco na usabilidade. | UI/UX • Figma • Acessibilidade |
-| **Rede Empresarial** | Planeamento e implementação de uma rede empresarial simulada. | Cisco • Routing • VLANs |
-| **Aplicação Android** | Aplicação Kotlin com integração de mapas e pontos de interesse. | Kotlin • Android • Maps |
-
+| **Previsão de Notas com Machine Learning** | Aplicação em Python para previsão de notas através de modelos de regressão. | Python • Machine Learning • Análise de Dados |
+| **Pentesting e Auditoria de Sistemas** | Projeto de análise de vulnerabilidades e auditoria de sistemas. | Pentesting • Auditoria de Segurança |
+| **Design UI/UX** | Protótipo funcional de uma aplicação de fitness com foco na usabilidade e acessibilidade. | UI/UX • Figma • Acessibilidade |
+| **Infraestrutura Empresarial** | Planeamento e implementação de uma infraestrutura de rede empresarial simulada. | Cisco • Routing • VLANs |
+| **Aplicação Android** | Aplicação em Kotlin com integração de mapas e pontos de interesse. | Kotlin • Android • Maps |
 
 ## Mestrado
 
 | Projeto | Descrição | Competências |
 |---------|-----------|--------------|
 | **SIEM com Wazuh e Suricata** | Implementação de uma infraestrutura SIEM para monitorização, deteção de intrusões e simulação de ataques. | Wazuh • Suricata • SIEM • Blue Team • Red Team |
-| **Módulo PAM com Device Fingerprint** | Desenvolvimento de um módulo PAM com autenticação baseada em device fingerprint. | PAM • Authentication • Security |
-| **Infraestrutura Empresarial** | Simulação de uma infraestrutura empresarial completa em Cisco Packet Tracer. | Cisco • VLANs • Routing • Network Security |
+| **Sistema de Gestão da Segurança da Informação (ISMS)** | Conceção e implementação de um Sistema de Gestão da Segurança da Informação, incluindo definição do âmbito, políticas de segurança, avaliação e tratamento de riscos, Business Impact Analysis (BIA), planeamento de contingência, simulação de auditoria interna e revisão pela gestão. | ISMS • ISO 27001 • Avaliação de Riscos • Tratamento de Riscos • Continuidade de Negócio • Auditoria Interna • Governance de Segurança |
+| **Plano de Segurança da Informação** | Desenvolvimento de um Plano de Segurança da Informação alinhado com normas da indústria e boas práticas, incluindo políticas de segurança, governance, controlos de segurança e gestão de riscos. | Governance de Segurança • Políticas de Segurança • Controlos de Segurança • Gestão de Riscos • Compliance |
+| **Módulo PAM com Device Fingerprinting** | Desenvolvimento de um módulo de Privileged Access Management com autenticação baseada em device fingerprint. | PAM • Autenticação • Segurança |
+| **Infraestrutura Empresarial** | Simulação de uma infraestrutura empresarial completa em Cisco Packet Tracer. | Cisco • VLANs • Routing • Segurança de Redes |
 | **Projetos DevOps** | Automação e gestão de infraestruturas utilizando Docker, Ansible e Vagrant. | Docker • Ansible • Vagrant • DevOps |
-| **Desenvolvimento Seguro** | Aplicação colaborativa com foco em práticas de desenvolvimento seguro. | Secure Coding • Authentication • Authorization |
+| **Desenvolvimento Seguro** | Aplicação colaborativa com foco em práticas de desenvolvimento seguro. | Secure Coding • Autenticação • Autorização |
 
 ---
 
@@ -51,10 +96,11 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 | Área | Competências |
 |------|--------------|
 | Programação | Desenvolvimento de Software • Programação Orientada a Objetos • Desenvolvimento Web • Desenvolvimento Mobile |
-| Cibersegurança | SIEM • Blue Team • Red Team • Pentesting • Vulnerability Assessment • Secure Software Development • Threat Detection • Incident Response |
-| Administração de Sistemas | Linux • Windows Server • Gestão de Utilizadores • Hardening |
-| Redes | Routing • Switching • VLANs • TCP/IP • Network Security |
-| Cloud & DevOps | Virtualização • Containers • Automação • Infraestrutura como Código |
+| Cibersegurança | SIEM • Blue Team • Red Team • Pentesting • Avaliação de Vulnerabilidades • Desenvolvimento Seguro • Deteção de Ameaças • Resposta a Incidentes |
+| Governance de Segurança | ISMS • Políticas de Segurança da Informação • Avaliação de Riscos • Tratamento de Riscos • Controlos de Segurança • Business Impact Analysis • Continuidade de Negócio • Auditoria Interna • Compliance |
+| Administração de Sistemas | Linux |
+| Redes | Routing • Switching • VLANs • Segurança de Redes |
+| Cloud & DevOps | Virtualização • Contentores • Automação • Infraestrutura como Código |
 | Bases de Dados | Modelação de Dados • SQL • Administração de Bases de Dados |
 | Inteligência Artificial | Machine Learning • Análise de Dados • Modelos de Regressão |
 
@@ -84,6 +130,8 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
   <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/SIEM-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISO%2027001-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISMS-1F6FEB?style=for-the-badge" />
 </p>
 
 ---
@@ -140,8 +188,6 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 
 # Certificações
 
-**Em atualização**
+Atualmente encontro-me a expandir os meus conhecimentos através do percurso académico, de projetos práticos e de aprendizagem contínua.
 
-Estou atualmente focado na conclusão do Mestrado em Engenharia Informática, com especialização em Cibersegurança e Administração de Sistemas, e pretendo obter certificações profissionais reconhecidas pela indústria nos próximos anos.
-
-As futuras certificações serão adicionadas a esta secção.
+As certificações profissionais serão adicionadas a este portfólio à medida que forem obtidas.
