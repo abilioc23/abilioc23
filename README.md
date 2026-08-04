@@ -74,7 +74,7 @@ My goal is to start and develop my career in the field of **Cybersecurity**, con
 | **Machine Learning Grade Prediction** | Python application that predicts final grades using regression models. | Python • Machine Learning • Data Analysis |
 | **Penetration Testing and Systems Auditing** | Vulnerability assessment and security auditing project. | Pentesting • Security Auditing |
 | **Fitness UI/UX Design** | Functional prototype of a fitness application focused on usability and accessibility. | UI/UX • Figma • Accessibility |
-| **Enterprise Network** | Planning and implementation of a simulated enterprise network. | Cisco • Routing • VLANs |
+| **Enterprise Infrastructure** | Planning and implementation of a simulated enterprise infrastructure. | Cisco • Routing • VLANs |
 | **Android Application** | Kotlin application integrating maps and points of interest. | Kotlin • Android • Maps |
 
 ## Master's Degree
@@ -85,7 +85,7 @@ My goal is to start and develop my career in the field of **Cybersecurity**, con
 | **Information Security Management System (ISMS)** | Design and implementation of a complete Information Security Management System, including scope definition, information security policies, risk assessment, risk treatment, Business Impact Analysis (BIA), contingency planning, internal audit simulation and management review. | ISMS • ISO 27001 • Risk Assessment • Risk Treatment • Business Continuity • Internal Audit • Security Governance |
 | **Information Security Plan** | Development of an Information Security Plan aligned with industry standards and best practices, including security policies, governance, security controls and risk management procedures. | Security Governance • Security Policies • Security Controls • Risk Management • Compliance |
 | **PAM Module with Device Fingerprinting** | Development of a Privileged Access Management module with device fingerprint-based authentication. | PAM • Authentication • Security |
-| **Enterprise Infrastructure** | Simulation of a complete enterprise network infrastructure using Cisco Packet Tracer. | Cisco • VLANs • Routing • Network Security |
+| **Enterprise Infrastructure** | Simulation of a complete enterprise infrastructure using Cisco Packet Tracer. | Cisco • VLANs • Routing • Network Security |
 | **DevOps Projects** | Infrastructure automation and management using Docker, Ansible, and Vagrant. | Docker • Ansible • Vagrant • DevOps |
 | **Secure Software Development** | Collaborative application focused on secure software development practices. | Secure Coding • Authentication • Authorization |
 
