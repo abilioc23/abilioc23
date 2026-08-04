@@ -48,44 +48,89 @@ Pretendo iniciar e desenvolver a minha carreira na área da **Cibersegurança**,
 
 # Competências
 
-| Categoria | Competência | Projetos Associados |
-|-----------|-------------|---------------------|
-| **Linguagens** | Python | Previsão de Notas • SIEM • Scripts |
-| | Java | Projetos Académicos |
-| | Kotlin | Aplicação Mobile de Pontos de Interesse |
-| | C | Projetos Académicos |
-| | SQL | Desenvolvimento Seguro • Machine Learning |
-| | HTML | Desenvolvimento Seguro |
-| | CSS | Desenvolvimento Seguro |
-| | JavaScript | Desenvolvimento Seguro |
-| **Cibersegurança** | SIEM (Wazuh) | SIEM com Wazuh e Suricata |
-| | Suricata | SIEM com Wazuh e Suricata |
-| | Pentesting | Pentesting e Auditoria de Sistemas |
-| | Vulnerability Assessment | Pentesting e Auditoria de Sistemas |
-| | Device Fingerprinting | Módulo PAM |
-| | Secure Software Development | Desenvolvimento Seguro |
-| | Blue Team | SIEM com Wazuh e Suricata |
-| | Red Team | SIEM com Wazuh e Suricata |
-| **Administração de Sistemas** | Linux | SIEM • DevOps |
-| | Windows Server | Laboratórios |
-| | Active Directory | Home Lab |
-| **Redes** | Cisco Packet Tracer | Redes Empresariais |
-| | Routing & Switching | Redes Empresariais |
-| | VLANs | Redes Empresariais |
-| | Network Security | Redes Empresariais • SIEM |
-| **Cloud & DevOps** | Docker | Projetos DevOps |
-| | Docker Compose | Projetos DevOps |
-| | Ansible | Projetos DevOps |
-| | Vagrant | Projetos DevOps |
-| | Git | Todos os projetos |
-| | GitHub | Todos os projetos |
-| | GitLab | Aplicação Mobile |
+## Linguagens de Programação
 
-| **Bases de Dados** | MySQL | Projetos Académicos |
-| | SQL Server | Projetos Académicos |
-| | Firebase | Aplicação Mobile |
+| Competência | Projetos Associados |
+|-------------|---------------------|
+| Python | Aplicação de Previsão de Notas • SIEM (scripts) |
+| Java | Projetos Académicos |
+| Kotlin | Aplicação Mobile de Pontos de Interesse |
+| C | Projetos Académicos |
+| SQL | Aplicação de Previsão de Notas • Desenvolvimento Seguro |
+| HTML | Desenvolvimento Seguro |
+| CSS | Desenvolvimento Seguro |
+| JavaScript | Desenvolvimento Seguro |
 
-| **Ferramentas** | Visual Studio Code | Desenvolvimento |
-| | Android Studio | Aplicação Mobile |
-| | Jupyter Notebook | Machine Learning |
-| | Figma | Projeto UI/UX |
+---
+
+## Cibersegurança
+
+| Competência | Projetos Associados |
+|-------------|---------------------|
+| SIEM | SIEM com Wazuh e Suricata |
+| Wazuh | SIEM com Wazuh e Suricata |
+| Suricata | SIEM com Wazuh e Suricata |
+| Pentesting | Pentesting e Auditoria de Sistemas |
+| Vulnerability Assessment | Pentesting e Auditoria de Sistemas |
+| Device Fingerprinting | Módulo PAM |
+| Secure Software Development | Desenvolvimento Seguro |
+| Blue Team | SIEM com Wazuh e Suricata |
+| Red Team | SIEM com Wazuh e Suricata |
+
+---
+
+## Administração de Sistemas
+
+| Competência | Projetos Associados |
+|-------------|---------------------|
+| Linux | SIEM • Projetos DevOps |
+| Windows Server | Home Lab |
+| Active Directory | Home Lab |
+
+---
+
+## Redes
+
+| Competência | Projetos Associados |
+|-------------|---------------------|
+| Cisco Packet Tracer | Redes Empresariais |
+| Routing | Redes Empresariais |
+| Switching | Redes Empresariais |
+| VLANs | Redes Empresariais |
+| Network Security | Redes Empresariais • SIEM |
+
+---
+
+## DevOps & Cloud
+
+| Competência | Projetos Associados |
+|-------------|---------------------|
+| Docker | Projetos DevOps |
+| Docker Compose | Projetos DevOps |
+| Ansible | Projetos DevOps |
+| Vagrant | Projetos DevOps |
+| Git | Todos os projetos |
+| GitHub | Todos os projetos |
+| GitLab | Aplicação Mobile |
+
+---
+
+## Bases de Dados
+
+| Competência | Projetos Associados |
+|-------------|---------------------|
+| MySQL | Aplicação de Previsão de Notas |
+| SQL Server | Desenvolvimento Seguro |
+| Firebase | Aplicação Mobile |
+
+---
+
+## Ferramentas
+
+| Ferramenta | Utilização |
+|------------|------------|
+| Visual Studio Code | Desenvolvimento geral |
+| Android Studio | Aplicação Mobile |
+| Jupyter Notebook | Machine Learning |
+| Cisco Packet Tracer | Projetos de Redes |
+| Figma | Projeto UI/UX |
